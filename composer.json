@@ -11,6 +11,7 @@
         "psr-0": {
             "MauroCasas\\Blockchain\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
     
 }
