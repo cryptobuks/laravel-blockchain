@@ -6,7 +6,7 @@ A fully-featured API to make use of Blockchain.info API.
 ## Installation
 Just add the package to your **composer.json**
 
-> "maurocasas/blockchain": "*"
+> "hamrahpay/blockchain": "*"
 
 And then run in your Laravel root directory
 
